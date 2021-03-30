@@ -1,5 +1,7 @@
 Bogdan Lishchynskiy
 Ihor Kalyta
+<<<<<<< HEAD
+=======
 Yaryna Zamroz
 Anastasiia Hevchuk
 Uliana Kurianska
@@ -8,4 +10,4 @@ Anastasiya Netkachova
 Mykola Halushko
 Nataliia Kukhar
 Taras Batyuchok
-
+>>>>>>> dfbbf907c898c31c5aff9ab42bb28404128d49ab
