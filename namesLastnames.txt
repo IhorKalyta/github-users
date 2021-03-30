@@ -1,4 +1,10 @@
 Bogdan Lishchynskiy
 Ihor Kalyta
 Yaryna Zamroz
+<<<<<<< feature/updatePersonalData
 Yurii Mykhailiv
+=======
+Uliana Kurianska
+
+
+>>>>>>> main
