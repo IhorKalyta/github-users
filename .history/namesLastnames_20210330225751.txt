@@ -1,5 +1,7 @@
 Bogdan Lishchynskiy
+<<<<<<< HEAD
 Roksolana Dutchak
+=======
 Ihor Kalyta
 Yaryna Zamroz
 Anastasiia Hevchuk
@@ -9,4 +11,4 @@ Anastasiya Netkachova
 Mykola Halushko
 Nataliia Kukhar
 Taras Batyuchok
-
+>>>>>>> upstream/main
