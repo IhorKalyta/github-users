@@ -1,4 +1,5 @@
 Bogdan Lishchynskiy
+<<<<<<< HEAD
 Roksolana Dutchak
 Ihor Kalyta
 Yaryna Zamroz
@@ -9,4 +10,10 @@ Anastasiya Netkachova
 Mykola Halushko
 Nataliia Kukhar
 Taras Batyuchok
+=======
+Ihor Kalyta
+Roksolana Dutchak
+
+
+>>>>>>> 91bb318f3ca4eaa57f16d3dd8065e5ad87f26568
 
