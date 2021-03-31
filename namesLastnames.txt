@@ -1,5 +1,4 @@
 Bogdan Lishchynskiy
-Roksolana Dutchak
 Ihor Kalyta
 Yaryna Zamroz
 Anastasiia Hevchuk
@@ -11,3 +10,4 @@ Nataliia Kukhar
 Maksym Fedorenko
 Taras Batyuchok
 Maksym Buhel
+Roksolana Dutchak
