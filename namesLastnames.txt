@@ -15,4 +15,5 @@ Andrew Reshetar
 Dmytro Blokhin
 Nazarii Lozynskij
 Yevhenii Zhuravskyi
+Roman Pyshka
 Yevhen Svyrydov
