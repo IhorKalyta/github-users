@@ -1,7 +1,6 @@
 Bogdan Lishchynskiy
 Ihor Kalyta
 Yaryna Zamroz
-Yevhen Svyrydov
 Anastasiia Hevchuk
 Uliana Kurianska
 Yurii Mykhailiv
@@ -14,3 +13,6 @@ Maksym Buhel
 Roksolana Dutchak
 Roksolana Dutchak
 Andrew Reshetar
+Andrew Reshetar
+Dmytro Blokhin
+Yevhen Svyrydov
