@@ -1,5 +1,4 @@
 Bogdan Lishchynskiy
-Nazarii Lozynskij
 Ihor Kalyta
 Yaryna Zamroz
 Anastasiia Hevchuk
@@ -14,4 +13,4 @@ Maksym Buhel
 Roksolana Dutchak
 Andrew Reshetar
 Dmytro Blokhin
-
+Nazarii Lozynskij
